@@ -47,4 +47,4 @@ cafe-management-system/
 ### Installation
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Gurshan2005/Cafe-Management-System.git
